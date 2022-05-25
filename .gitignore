@@ -1,3 +1,7 @@
 *.tmp
 /target/*.*
 .idea/*.*
+/target
+/.idea
+target
+/target/.
